@@ -5,7 +5,7 @@ pipeline {
     }
 
 
-
+    stages {
 
         stage('unit tests') {
            steps {
